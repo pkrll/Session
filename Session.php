@@ -5,6 +5,7 @@
  * @author Ardalan Samimi
  * @version 1.0.0
  */
+namespace saturn\session;
 class Session {
     const SESSION_IDENTIFIER = "XYZ";
     /**
